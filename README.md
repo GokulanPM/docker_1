@@ -31,14 +31,11 @@ Docker Compose setup for running Flask + MySQL
 └── README.md             # Project documentation
 
 🛠️ Setup Instructions
-1️⃣ Clone the Repository
-git clone https://github.com/your-username/docker-flask-mysql-form.git
-cd docker-flask-mysql-form
 
-2️⃣ Start the Containers
+Start the Containers
 docker-compose up -d
 
-3️⃣ Create Database & Table
+Create Database & Table
 
 Enter the MySQL container:
 
