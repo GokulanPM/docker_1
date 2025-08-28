@@ -79,4 +79,4 @@ Connecting Flask backend with MySQL
 
 Building a web interface (HTML form) for database input
 
-Using Docker to simulate a real-world app setup
+Using Docker to simulate a real-world app setups
